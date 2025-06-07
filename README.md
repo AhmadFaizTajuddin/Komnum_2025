@@ -4,7 +4,7 @@
 3. Hidayah Nur Septiani (5025241247)
 4. Nadia Putri Shafina (5025241254)
 # No 23
-``Soal``
+``Soal
 
 Diketahui f(x) = x^3 + 4x^2 - 59^x - 126
 
